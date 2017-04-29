@@ -1,0 +1,5 @@
+C:\Users\vorko\documents\visual studio 2017\Projects\Fsd.Lukasz.Cs.Ex4\Fsd.Lukasz.Cs.Ex4.Data\bin\Debug\Fsd.Lukasz.Cs.Ex4.Data.dll
+C:\Users\vorko\documents\visual studio 2017\Projects\Fsd.Lukasz.Cs.Ex4\Fsd.Lukasz.Cs.Ex4.Data\bin\Debug\Fsd.Lukasz.Cs.Ex4.Data.pdb
+C:\Users\vorko\documents\visual studio 2017\Projects\Fsd.Lukasz.Cs.Ex4\Fsd.Lukasz.Cs.Ex4.Data\obj\Debug\Fsd.Lukasz.Cs.Ex4.Data.csprojResolveAssemblyReference.cache
+C:\Users\vorko\documents\visual studio 2017\Projects\Fsd.Lukasz.Cs.Ex4\Fsd.Lukasz.Cs.Ex4.Data\obj\Debug\Fsd.Lukasz.Cs.Ex4.Data.dll
+C:\Users\vorko\documents\visual studio 2017\Projects\Fsd.Lukasz.Cs.Ex4\Fsd.Lukasz.Cs.Ex4.Data\obj\Debug\Fsd.Lukasz.Cs.Ex4.Data.pdb
