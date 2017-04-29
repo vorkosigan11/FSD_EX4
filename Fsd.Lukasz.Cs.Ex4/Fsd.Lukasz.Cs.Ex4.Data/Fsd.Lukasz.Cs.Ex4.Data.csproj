@@ -42,11 +42,14 @@
   <ItemGroup>
     <Compile Include="Entities\Bike.cs" />
     <Compile Include="Entities\Brake.cs" />
-    <Compile Include="Entities\BrakeType.cs" />
+    <Compile Include="Enum\BrakeType.cs" />
     <Compile Include="Entities\Chain.cs" />
-    <Compile Include="Entities\Product.cs" />
+    <Compile Include="Entities\Interface\IChain.cs" />
+    <Compile Include="Entities\Interface\IBrake.cs" />
+    <Compile Include="Entities\Interface\IBike.cs" />
+    <Compile Include="Entities\Interface\IProductBase.cs" />
     <Compile Include="Entities\ProductBase.cs" />
-    <Compile Include="Entities\ProductType.cs" />
+    <Compile Include="Enum\ProductType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Fsd.Lukasz.Cs.Ex4.Data.Entities
 {
-public     class Chain : ProductBase
+public     class Chain : ProductBase, IChain
     {
         #region Constructors
 

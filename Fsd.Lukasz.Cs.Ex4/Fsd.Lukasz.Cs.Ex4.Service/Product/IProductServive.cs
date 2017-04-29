@@ -9,8 +9,8 @@ namespace Fsd.Lukasz.Cs.Ex4.Services.Product
 {
     public interface IProductServive
     {
-        IEnumerable<ProductBase> GetAllProducts();
+        IEnumerable<IProductBase> GetAllProducts();
 
-        ProductBase GetProduct(int index);
+        IProductBase GetProduct(int index);
     }
 }

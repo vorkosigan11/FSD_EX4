@@ -2,7 +2,7 @@
 
 namespace Fsd.Lukasz.Cs.Ex4.Data.Entities
 {
-    public class Bike : ProductBase
+    public class Bike : ProductBase, IBike
     {
         #region Fields
 
@@ -31,7 +31,10 @@ namespace Fsd.Lukasz.Cs.Ex4.Data.Entities
             set
             {
                 _NameOfFrontShock = value;
-                FrontShock = true;
+                if (string.IsNullOrEmpty(_NameOfFrontShock))
+                    FrontShock = false;
+                else
+                    FrontShock = true;
             }
         }
 

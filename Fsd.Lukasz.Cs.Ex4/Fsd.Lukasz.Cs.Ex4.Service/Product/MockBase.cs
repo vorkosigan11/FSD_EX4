@@ -9,7 +9,7 @@ namespace Fsd.Lukasz.Cs.Ex4.Services.Product
 {
     public class MockBase : IProductServive
     {
-        private IEnumerable<ProductBase> SampleData()
+        private IEnumerable<IProductBase> SampleData()
         {
             IList<ProductBase> results = new List<ProductBase>();
 
@@ -33,12 +33,12 @@ namespace Fsd.Lukasz.Cs.Ex4.Services.Product
             return results;
         }
 
-        public IEnumerable<ProductBase> GetAllProducts()
+        public IEnumerable<IProductBase> GetAllProducts()
         {
             return SampleData();
         }
 
-        public ProductBase GetProduct(int index)
+        public IProductBase GetProduct(int index)
         {
             throw new NotImplementedException();
         }

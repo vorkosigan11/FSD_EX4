@@ -2,7 +2,7 @@
 
 namespace Fsd.Lukasz.Cs.Ex4.Data.Entities
 {
-    public class Brake : ProductBase
+    public class Brake : ProductBase, IBrake
     {
         #region Constructors
 

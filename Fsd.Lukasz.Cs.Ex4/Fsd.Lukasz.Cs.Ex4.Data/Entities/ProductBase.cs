@@ -2,7 +2,7 @@
 
 namespace Fsd.Lukasz.Cs.Ex4.Data.Entities
 {
-    public abstract class ProductBase
+    public abstract class ProductBase : IProductBase
     {
         #region Constructors
 

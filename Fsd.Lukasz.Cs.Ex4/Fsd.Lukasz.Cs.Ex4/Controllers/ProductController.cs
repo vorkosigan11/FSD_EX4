@@ -23,7 +23,7 @@ namespace Fsd.Lukasz.Cs.Ex4.Controllers
         {
 
             //pobrac dane i zamienic na modelview class
-            IEnumerable<ProductBase> productList = _productService.GetAllProducts();
+            IEnumerable<IProductBase> productList = _productService.GetAllProducts();
 
             var model = new ProductModelView
             {
