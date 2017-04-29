@@ -1,7 +1,0 @@
-C:\Users\vorko\documents\visual studio 2017\Projects\Fsd.Lukasz.Cs.Ex4\Fsd.Lukasz.Cs.Ex4.Service\bin\Debug\Fsd.Lukasz.Cs.Ex4.Service.dll
-C:\Users\vorko\documents\visual studio 2017\Projects\Fsd.Lukasz.Cs.Ex4\Fsd.Lukasz.Cs.Ex4.Service\bin\Debug\Fsd.Lukasz.Cs.Ex4.Service.pdb
-C:\Users\vorko\documents\visual studio 2017\Projects\Fsd.Lukasz.Cs.Ex4\Fsd.Lukasz.Cs.Ex4.Service\bin\Debug\Fsd.Lukasz.Cs.Ex4.Data.dll
-C:\Users\vorko\documents\visual studio 2017\Projects\Fsd.Lukasz.Cs.Ex4\Fsd.Lukasz.Cs.Ex4.Service\bin\Debug\Fsd.Lukasz.Cs.Ex4.Data.pdb
-C:\Users\vorko\documents\visual studio 2017\Projects\Fsd.Lukasz.Cs.Ex4\Fsd.Lukasz.Cs.Ex4.Service\obj\Debug\Fsd.Lukasz.Cs.Ex4.Services.csprojResolveAssemblyReference.cache
-C:\Users\vorko\documents\visual studio 2017\Projects\Fsd.Lukasz.Cs.Ex4\Fsd.Lukasz.Cs.Ex4.Service\obj\Debug\Fsd.Lukasz.Cs.Ex4.Service.dll
-C:\Users\vorko\documents\visual studio 2017\Projects\Fsd.Lukasz.Cs.Ex4\Fsd.Lukasz.Cs.Ex4.Service\obj\Debug\Fsd.Lukasz.Cs.Ex4.Service.pdb
