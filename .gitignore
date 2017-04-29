@@ -41,6 +41,8 @@ local.properties
 *.user
 *.sln.docstates
 
+/packages/
+!packages/repositories.config
 # Build results
 
 [Dd]ebug/
